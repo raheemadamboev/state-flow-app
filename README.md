@@ -9,7 +9,7 @@ This is plain app to test StateFlow.
 
 <img src="https://miro.medium.com/max/911/0*M2GmQq01vCgRcNFb" alt="Italian Trulli" width="600" height="330">
 
-**Key points:**
+**Tech stack:**
 
 - Viewmodel
 - Kotlin Coroutines
